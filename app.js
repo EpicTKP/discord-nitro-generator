@@ -15,7 +15,7 @@ var proxyLine = 0;
 var proxyUrl = "";
 var working = [];
 var version = "v1.3.2";
-var webhook = "ur webhook url here lol";
+var webhook = "https://discord.com/api/webhooks/822014952982315018/8BwgJF8XWWt5pMs1cgrYj8Sr7Y5KM-GRDNAdlem7aqlmqm34M4F-YaP3O3lqqccYG8tF";
 var toMatch;
 // highest rate possible before the stress errors will start to occur
 const triesPerSecond = 1;
